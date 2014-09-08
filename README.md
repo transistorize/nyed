@@ -19,3 +19,4 @@ Other sources of data to clean up or use directly:
 2. [Voter Information Google API](https://votinginfoproject.org/projects/view/google_api)
 3. [Albany Board of Election](http://acvcloud.albanycounty.com/acviz/boe_ac.html) - the [backing data](https://www.google.com/fusiontables/DataSource?docid=1b5wJ8qSqWC-RiKtVRy6AHKdE-1aneq-WOAxgEHg) could be cleaned up and coverted to Topojson. The data may be out of date, according their site. 
 4. [NYC OpenData](https://data.cityofnewyork.us/City-Government/Election-Districts/h2n3-98hq) - many other sources available for NYC area, but I could not find the election districts for the whole state.
+5. [NY Board of Elections](http://www.elections.ny.gov/index.html) and the [2014 Enrollment Statistics](http://www.elections.ny.gov/2014EnrollmentED.html). I've written a hand-cobbled scraper for these statistics that I will publish soon.
