@@ -11,3 +11,11 @@ All Shape and Geojson format files are converted to [Topojson](https://github.co
 
 If you use this data to make visualizations, let me know and I will list it below.
 
+----
+
+Other sources of data to clean up or use directly:
+
+1. [SAGE](http://pubgeo.nysenate.gov/docs/html/index.html) and the [NY Senate Geo API][https://github.com/nysenate/GeoApi]
+2. [Voter Information Google API](https://votinginfoproject.org/projects/view/google_api)
+3. [Albany Board of Election](http://acvcloud.albanycounty.com/acviz/boe_ac.html) - the [backing data](https://www.google.com/fusiontables/DataSource?docid=1b5wJ8qSqWC-RiKtVRy6AHKdE-1aneq-WOAxgEHg) could be cleaned up and coverted to Topojson. The data may be out of date, according their site. 
+4. [NYC OpenData](https://data.cityofnewyork.us/City-Government/Election-Districts/h2n3-98hq) - many other sources available for NYC area, but I could not find the election districts for the whole state.
