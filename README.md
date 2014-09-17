@@ -21,3 +21,4 @@ Other sources of data to clean up or use directly:
 4. [NYC OpenData](https://data.cityofnewyork.us/City-Government/Election-Districts/h2n3-98hq) - many other sources available for NYC area, but I could not find the election districts for the whole state.
 5. [NY Board of Elections](http://www.elections.ny.gov/index.html) and the [2014 Enrollment Statistics](http://www.elections.ny.gov/2014EnrollmentED.html). I've written a hand-cobbled scraper for these statistics that I will publish soon.
 6. [MapZen](https://mapzen.com/data) - See all the data sources and their [announcement](https://mapzen.com/blog/cfa-announcement) of funding.
+7. [Wikipedia](http://en.wikipedia.org/wiki/List_of_counties_in_New_York) - list of counties
